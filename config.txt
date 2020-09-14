@@ -1,0 +1,12 @@
+1.title_size:38;				 
+2.title_position:358,370;        
+3.time_size:35;                  
+4.time_position:64,29;           
+5.time_out_size:32;              
+6.time_out_position:256,550;     
+7.name_size:46;                  
+8.name_position:183,248;         
+9.face_size:136,136;             
+10.face_position:199,353;        
+11.head_size:125,125;            
+12.head_position:40, 247;        
